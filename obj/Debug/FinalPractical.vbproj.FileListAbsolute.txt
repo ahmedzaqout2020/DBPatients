@@ -1,0 +1,15 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\bin\Debug\FinalPractical.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\bin\Debug\FinalPractical.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\bin\Debug\FinalPractical.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\bin\Debug\FinalPractical.xml
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.vbprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.vbproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.xml
+c:\users\ahmed\documents\visual studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.pdb
+C:\Users\AHMED\Documents\Visual Studio 2015\Projects\FinalPractical\FinalPractical\bin\Debug\DatabasePatient.mdf
+C:\Users\AHMED\Documents\Visual Studio 2015\Projects\FinalPractical\FinalPractical\bin\Debug\DatabasePatient_log.ldf
+C:\Users\AHMED\Documents\Visual Studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.main.resources
+C:\Users\AHMED\Documents\Visual Studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.add.resources
+C:\Users\AHMED\Documents\Visual Studio 2015\Projects\FinalPractical\FinalPractical\obj\Debug\FinalPractical.update.resources
